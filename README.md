@@ -21,3 +21,23 @@ Design, implement, and manage a comprehensive Windows Server environment with Ac
 - **Disaster Recovery**: Scheduled DR tests uncovered gaps in the recovery process that weren't apparent in the planning phase, Detailed, step-by-step recovery procedures proved invaluable during DR scenarios, Backup strategy diversification: Implementing both on-site and off-site backups; Having detailed rollback plans for each major change provided a safety net and increased confidence in implementations.
 - **User Management:** PowerShell scripts for user management tasks significantly reduced administrative overhead and human errors; Implementing password reset self-service reduced help desk calls dramatically; Consistent naming conventions for users, computers, and groups greatly simplified management and troubleshooting.
 - **Future-Proofing**: Stress testing the infrastructure beyond current needs helped identify potential scalability issues before they became problems.
+
+## Tools Used:
+
+- Windows Server 2019 Datacenter Edition
+- Active Directory Domain Services
+- Group Policy Management Console
+- Windows Admin Center
+- PowerShell for automation and scripting
+- Hyper-V for virtualization
+- Microsoft LAPS (Local Administrator Password Solution)
+- Microsoft ADFS (Active Directory Federation Services)
+- Veeam Backup & Replication for backup and disaster recovery
+- PRTG Network Monitor for comprehensive monitoring
+- Microsoft Visio for network diagramming
+- Git for version control of scripts and configurations
+- Microsoft Azure for hybrid cloud integration
+- Wireshark for network troubleshooting
+- Nmap for network discovery and security auditing
+- Microsoft Baseline Security Analyzer (MBSA)
+- Sysinternals Suite for advanced system utilities
